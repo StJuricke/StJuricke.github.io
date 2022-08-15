@@ -1,5 +1,3 @@
-# StJuricke.github.io
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Website of Stephan Juricke </h1>
